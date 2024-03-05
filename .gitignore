@@ -1,5 +1,5 @@
 /node_modules
 credentials.json
 token.json
-package0lock.json
+package-lock.json
 .env
